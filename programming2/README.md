@@ -1,0 +1,3 @@
+Unfortunately I can't find the original problem set questions that we used throughout the semester that gave context to what I coded. Usually Professor Gibbons adds them to the course Github but I can't find it. 
+
+Sometimes in the weekly lecture notes there are discussions of what we were expected to code during lab. link to that repo: https://github.com/jwgibbo/public_html/tree/master/eecs268/2025spring/TR

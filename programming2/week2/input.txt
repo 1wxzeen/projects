@@ -1,0 +1,8 @@
+START math
+CALL pow yes
+CALL sin no
+CALL sqrt no
+RETURN
+RAISE
+RETURN
+RETURN
